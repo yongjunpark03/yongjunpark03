@@ -31,17 +31,18 @@
 </div>
 
 
-
-  - 🔭 I’m currently working on Hyndai-Transys
-  - 🌱 I’m currently learning PyQt, MQTT, DataBase
-  - 👯 I’m looking to collaborate on AUTOSAR
-  - 📫 How to reach me: ...
-  - 😄 Pronouns: ...
-  - ⚡ Fun fact: ...
-
-
-
 <div>
+  <div>
+    - 🔭 I’m currently working on Hyndai-Transys</br>
+    - 🌱 I’m currently learning PyQt, MQTT, DataBase</br>
+    - 👯 I’m looking to collaborate on AUTOSAR</br>
+    - 📫 How to reach me: ...</br>
+    - 😄 Pronouns: ...</br>
+    - ⚡ Fun fact: ...</br>
+  </div>
+  <div>
   
-  ![Liam Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongjunpark03&theme=slateorange&show_icons=true)
+![Liam Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongjunpark03&theme=slateorange&show_icons=true)
+  
+  </div>
 </div>
