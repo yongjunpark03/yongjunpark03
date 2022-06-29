@@ -3,40 +3,6 @@
 <a href="https://github.com/yongjunpark03/YJP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yongjunpark03&repo=YJP" />
 </a>
-<a href="https://github.com/yongjunpark03/StudyPython_2022">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yongjunpark03&repo=StudyPython_2022" />
-</a>
-<a href="https://github.com/yongjunpark03/StudyPython_2022_intermediate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yongjunpark03&repo=StudyPython_2022_intermediate" />
-</a>
-<a href="https://github.com/yongjunpark03/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yongjunpark03&repo=git_test" />
-</a>
-<a href="https://github.com/yongjunpark03/StudyC_Basic_2022">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yongjunpark03&repo=StudyC_Basic_2022" />
-</a>
-<a href="https://github.com/yongjunpark03/Markdown">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yongjunpark03&repo=Markdown" />
-</a>
-<a href="https://github.com/yongjunpark03/MySQL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yongjunpark03&repo=MySQL" />
-</a>
-<a href="https://github.com/yongjunpark03/CarrotGame2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yongjunpark03&repo=CarrotGame2" />
-</a>
-<a href="https://github.com/yongjunpark03/ReactStudy_2022">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yongjunpark03&repo=ReactStudy_2022" />
-</a>
-<a href="https://github.com/yongjunpark03/React-Github">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yongjunpark03&repo=React-Github" />
-</a>
-<a href="https://github.com/yongjunpark03/MySQL-C">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yongjunpark03&repo=MySQL-C" />
-</a>
-<a href="https://github.com/yongjunpark03/EMS_Comm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yongjunpark03&repo=EMS_Comm" />
-</a>
-</br></br></br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongjunpark03&layout=compact)](https://github.com/yongjunpark03/github-readme-stats)
 
