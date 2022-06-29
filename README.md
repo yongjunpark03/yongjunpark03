@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**yongjunpark03/yongjunpark03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=300&section=header&text=Github%20Repo&fontSize=90)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
